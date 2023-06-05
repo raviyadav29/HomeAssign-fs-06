@@ -1,0 +1,25 @@
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 40px;
+   margin-top: 10px;
+}
+.foot01{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot02{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot03{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,29 @@
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+}
+.nav01{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav02{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav03{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+}

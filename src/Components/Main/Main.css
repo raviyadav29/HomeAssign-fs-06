@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    background-color: aqua;
+    margin-top: 10px;
+
+}
+.main01{
+    width: 50%;
+    text-align: center;
+   
+}
+.main02{
+    width: 50%;
+}
+img{
+    height: 380px;
+    width: 770px;
+}
